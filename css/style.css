@@ -20,6 +20,29 @@ h1 {
   top: -4px;
   right: 5px;
 
-  color: transparent;
+  color: rgba(255, 255, 255, 255);
   text-shadow: 0 0 4px white;
+}
+
+p {
+  position: absolute;
+  margin: 0;
+  top: 35px;
+  right: 5px;
+  color: #aaa;
+}
+
+h2 {
+  visibility: hidden;
+  font-size: 4rem;
+  letter-spacing: -1px;
+  position: absolute;
+  width: 100vw;
+  top: 45%;
+  margin: 0;
+  text-align: center;
+  justify-content: center;
+
+  color: rgba(255, 255, 255, 255);
+  text-shadow: 0 0 4px rgb(228, 231, 204);
 }
