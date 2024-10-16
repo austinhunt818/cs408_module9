@@ -1,24 +1,15 @@
-# CS408 - Lab9.2
+# Lab 7
+### Austin Hunt
 
 ## Overview
 
-TODO: Write a project description
+This project contains a bouncing ball game that involves a user controlled circle that destroys the balls on the page.
+
+## Running
+
+To run this website, you can right click on the index.html file and click the 'show preview' option. While this web server is running, the url shown in the preview can be used in a web browser as well.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+* [JS Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+* [JS Classes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript)
